@@ -69,7 +69,7 @@ const Home = () => {
     <div className="home-container">
       <div className="section">
         <div className='uppercontainer'>
-          <div className='seperate'>
+          <div className='seperate' id='s0'>
             <div className="subsection">
               <div className="title">
                 <h4>Admin</h4>
@@ -81,7 +81,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-          <div className='seperate'>
+          <div className='seperate' id='s1'>
             <div className="subsection">
               <div className="title">
                 <h4>Employee</h4>
@@ -93,7 +93,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-          <div className='seperate'>
+          <div className='seperate' id='s2'>
             <div className="subsection">
               <div className="title">
                 <h4>Salary</h4>
@@ -133,3 +133,4 @@ const Home = () => {
 };
 
 export default Home;
+
