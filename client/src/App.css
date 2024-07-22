@@ -150,7 +150,7 @@ body{
 
 .header {
   margin-bottom: 20px;
-  background-color:  #1a144f;
+  background-color:  #1a144fcc;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 
 }
@@ -271,7 +271,7 @@ body{
 }
 
 .admins-list th {
-  background-color: #1a144f;
+  background-color:  #1a144fcc;;
   font-weight: bold;
   color: #ffffff;
 }
@@ -376,7 +376,7 @@ body{
 }
 
 .admin-table th {
-  background-color:  #1a144f;
+  background-color:   #1a144fcc;
   color: #ffffff;
 }
 
@@ -449,7 +449,7 @@ body{
 
 .category-container table th {
  
-  background-color:  #1a144f;
+  background-color:   #1a144fcc;
   color: #ffffff;
 }
 
@@ -539,7 +539,7 @@ body{
 
 .employee-container table th {
   
-  background-color:  #1a144f;
+  background-color:   #1a144fcc;
   color: #ffffff;
 }
 
